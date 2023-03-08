@@ -2,6 +2,7 @@ const fibonacci = function(num) {
     if(num < 0){
         return "OOPS"
     }
+    
     let x = 1;
     let y = 1;
     let temp = 0;
